@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Etc
+*.db
+*.vs
+*.opendb
+*.opensdf
+*.tlog
+*.iobj
+*.ipdb
+*.idb
+*.pdb
+*.recipe
+*.log
+*.ilk
+*.exe
